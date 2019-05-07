@@ -1,1 +1,3 @@
 Version agnostic sample file. Latest version has to work with what's on the cloud.
+
+This sample code should be compatible with the latest version.
